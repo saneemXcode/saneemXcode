@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahammad Saneem</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saneemxcode&label=Profile%20views&color=0e75b6&style=flat" alt="saneemxcode" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saneemxcode" alt="saneemxcode" /></a> </p>
